@@ -1,3 +1,7 @@
+Cálculos Essenciais e Funções Matemáticas
+
+🔗 Arquivo completo: https://1drv.ms/x/c/7901653FB06DF736/IQCV_FOH2dv1SIpIhEIwC18EAZNFrwFMidPVnW0qHmZHxPg?e=TFH6U3
+
 ✅ O que foi praticado:
 - Função SOMA: totalização de valores individuais e intervalos
 - Função SOMAPRODUTO: multiplicação e soma de conjuntos de dados relacionados
